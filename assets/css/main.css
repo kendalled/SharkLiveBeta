@@ -37,6 +37,10 @@ ol, ul {
 	list-style: none;
 }
 
+#myLogo:hover{
+	opacity: 1;
+}
+
 blockquote, q {
 	quotes: none;
 }
@@ -3069,7 +3073,7 @@ input, select, textarea {
 			line-height: inherit;
 
 		}
-		
+
 			#header .logo span {
 				font-weight: 300;
 			}
