@@ -3067,8 +3067,9 @@ input, select, textarea {
 			display: block;
 			height: inherit;
 			line-height: inherit;
-		}
 
+		}
+		
 			#header .logo span {
 				font-weight: 300;
 			}
