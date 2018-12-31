@@ -25,6 +25,18 @@ section, summary, time, mark, audio, video {
   vertical-align: baseline;
 }
 
+#wut2 {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: rgba(255, 255, 255, 1);
+}
+#one{
+  background-color: rgba(0, 0, 0, 0.8);
+}
+#wut {
+  background-color: rgba(123, 210, 237, .5);
+}
+
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
@@ -309,7 +321,7 @@ strong, b {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #777777;
+  color: #FFFFFF;
 }
 
 blockquote {
@@ -3441,7 +3453,6 @@ body.is-menu-visible #menu {
   min-height: 100%;
   overflow: hidden;
 }
-
 
 #banner:before {
   -moz-transition: opacity 3s ease;
